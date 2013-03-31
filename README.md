@@ -1,0 +1,1 @@
+A simple python based JSON stream "parser" along with the bare minimum protocol and protocol factory code to get this up and running under twisted.  This is not a complete parser by any means and has a few limitations at the moment, however I thought that the code was interesting enough to share.
